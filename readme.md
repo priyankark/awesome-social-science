@@ -15,6 +15,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Hanlon's Razor](#hanlons-razor)
   - [Murphy's Law](#murphys-law)
   - [Godwin's Law](#godwins-law)
+  - [Parkinson's Law](#parkinsons-law)
 - [Psychological Syndromes](#psychological-syndromes)
   - [Stockholm Syndrome](#stockholm-syndrome)
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
@@ -79,6 +80,14 @@ referred to as `Playing the Hitler card`.
 [Bonus: an xkcd about this as well!](https://xkcd.com/261/)
 
 ***
+
+### [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+
+> Parkinson's law is the adage that "work expands so as to fill the time available for its completion". It is also sometimes applied to the growth of the bureaucratic apparatus in an organization.
+
+This adage explains why you end up studying the majority of your syllabus one day before the exam despite the fact that you probably had over a week to study.
+
+[R: A Beginners Guide To Parkinson’s Law: How To Do More Stuff By Giving Yourself Less Time](https://impossiblehq.com/parkinsons-law/)
 
 ## Psychological Syndromes
 

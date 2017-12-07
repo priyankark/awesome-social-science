@@ -83,11 +83,13 @@ referred to as `Playing the Hitler card`.
 
 ### [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 
-> Parkinson's law is the adage that "work expands so as to fill the time available for its completion". It is also sometimes applied to the growth of the bureaucratic apparatus in an organization.
+> Parkinson's law is the adage that "work expands so as to fill the time available for its completion". 
 
-This adage explains why you end up studying the majority of your syllabus one day before the exam despite the fact that you probably had over a week to study.
+This adage explains why you end up studying the majority of your syllabus one day before the exam despite the fact that you probably had over a week to study. Interestingly, it is used to explain the inefficiencies of bureaucratic systems. Having earlier deadlines can be a way to get around the problem.
 
 [R: A Beginners Guide To Parkinson’s Law: How To Do More Stuff By Giving Yourself Less Time](https://impossiblehq.com/parkinsons-law/)
+
+[R: What is Parkinson's law: The Hindu](http://www.thehindu.com/opinion/op-ed/what-is-parkinsons-law-in-management/article19758089.ece)
 
 ## Psychological Syndromes
 

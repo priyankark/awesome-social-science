@@ -94,8 +94,6 @@ around the problem.
 
 [R: What is Parkinson's law: The Hindu](http://www.thehindu.com/opinion/op-ed/what-is-parkinsons-law-in-management/article19758089.ece)
 
-[R: How to use Parkinson's law to your advantage: LifeHack](http://www.lifehack.org/articles/featured/how-to-use-parkinsons-law-to-your-advantage.html)
-
 ## Psychological Syndromes
 
 #### [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome)
